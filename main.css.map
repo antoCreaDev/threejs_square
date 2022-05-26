@@ -1,0 +1,1 @@
+{"version":3,"file":"main.css","mappings":"AAAA;AACA,UAAU;AACV,WAAW,CAAC","sources":["webpack:///./src/style.css"],"sourcesContent":["body{\nmargin : 0;\npadding : 0;}\n"],"names":[],"sourceRoot":""}
